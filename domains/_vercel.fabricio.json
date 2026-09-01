@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "fabricioevieira",
+        "email": "fabriciovieira.dev@gmail.com"
+    },
+    "records": {
+        "TXT": [
+            "vc-domain-verify=fabricio.is-a.dev,4198690a31177d46b089",
+            "vc-domain-verify=fabricioevieira.is-a.dev,3b681b021636fb6d786d",
+            "vc-domain-verify=www.fabricio.is-a.dev,081abc595e60ea57cbfb"
+        ]
+    }
+}
